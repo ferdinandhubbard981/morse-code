@@ -1,0 +1,11 @@
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\MorseCode\MorseCode\bin\Debug\netcoreapp3.0\MorseCode.exe
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\MorseCode\MorseCode\bin\Debug\netcoreapp3.0\MorseCode.deps.json
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\MorseCode\MorseCode\bin\Debug\netcoreapp3.0\MorseCode.runtimeconfig.json
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\MorseCode\MorseCode\bin\Debug\netcoreapp3.0\MorseCode.runtimeconfig.dev.json
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\MorseCode\MorseCode\bin\Debug\netcoreapp3.0\MorseCode.dll
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\MorseCode\MorseCode\bin\Debug\netcoreapp3.0\MorseCode.pdb
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\MorseCode\MorseCode\obj\Debug\netcoreapp3.0\MorseCode.csprojAssemblyReference.cache
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\MorseCode\MorseCode\obj\Debug\netcoreapp3.0\MorseCode.AssemblyInfoInputs.cache
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\MorseCode\MorseCode\obj\Debug\netcoreapp3.0\MorseCode.AssemblyInfo.cs
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\MorseCode\MorseCode\obj\Debug\netcoreapp3.0\MorseCode.dll
+C:\Users\F.Hubbard21\Documents\computer science\programming tasks\MorseCode\MorseCode\obj\Debug\netcoreapp3.0\MorseCode.pdb
